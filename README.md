@@ -2,7 +2,7 @@
 
 ## **TOC**
 
-*July*
+***July***
 
 | Mon                  | Tues                 | Wed                  | Thur                 | Fri                  | Sat                  | Sun                  |
 |----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
@@ -57,4 +57,12 @@
     * control flow
 ### Plan
 I wish I can work harder tomorrow...
+
+<span id="Day002"></span>
+## Day 2
+### Events
+* watered?
+* firgured out the owner of Rust.
+### Plan
+I wish I can brief finish the grammar of Rust...
 
