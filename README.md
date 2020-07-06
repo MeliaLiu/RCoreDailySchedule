@@ -64,5 +64,13 @@ I wish I can work harder tomorrow...
 * watered?
 * firgured out the owner of Rust.
 ### Plan
-I wish I can brief finish the grammar of Rust...
+I wish I can briefly finish the grammar of Rust...
+
+<span id="Day003"></span>
+## Day 3
+### Events
+* Reference
+* Borrowing
+* Slices
+* Structure
 
