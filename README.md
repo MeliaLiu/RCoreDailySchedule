@@ -62,7 +62,7 @@ I wish I can work harder tomorrow...
 ## Day 2
 ### Events
 * watered?
-* firgured out the owner of Rust.
+* firgured out the ownership of Rust.
 ### Plan
 I wish I can briefly finish the grammar of Rust...
 
@@ -73,4 +73,13 @@ I wish I can briefly finish the grammar of Rust...
 * Borrowing
 * Slices
 * Structure
+
+<span id="Day004"></span>
+## Day 4
+### Events
+* Conversion
+    * From and Into
+* enum
+* match
+* if let
 
