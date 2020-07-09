@@ -90,3 +90,17 @@ Wow, I love rustlings~~~~~~
 ### Plan
 Tomorrow I will try more. 
 
+<span id="Day006"></span>
+## Day 6
+### Events
+* 😄Finished more Rustlings
+    * enums
+    * functions
+    * if
+    * primitive_types
+    * strings
+    * structs
+    * tests
+    * variables
+    * macros
+    * modules
