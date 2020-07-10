@@ -104,3 +104,10 @@ Tomorrow I will try more.
     * variables
     * macros
     * modules
+
+<span id="Day00&"></span>
+## Day 7
+### Events
+* 😄I feel extremely happy today!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+* 😄Good night!
+* 😄Study hard tomorrow!
