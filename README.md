@@ -105,9 +105,21 @@ Tomorrow I will try more.
     * macros
     * modules
 
-<span id="Day00&"></span>
+<span id="Day007"></span>
 ## Day 7
 ### Events
 * 😄I feel extremely happy today!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 * 😄Good night!
 * 😄Study hard tomorrow!
+
+<span id="Day008"></span>
+## Day 8
+### Events
+* Rustlings
+
+<span id="Day009"></span>
+## Day 9
+### Events
+* About to finish rustlings, hard.
+* Reviewed linear algebra instead. (funny
+
