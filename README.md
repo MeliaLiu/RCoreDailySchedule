@@ -123,3 +123,9 @@ Tomorrow I will try more.
 * About to finish rustlings, hard.
 * Reviewed linear algebra instead. (funny
 
+<span id="Day0010"></span>
+## Day 10
+### Events
+* Finished all rustlings, hard.
+* Linear algebra!
+
